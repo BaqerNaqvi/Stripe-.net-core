@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtNUU1DLysiqphqEfKJ9kmfg4xMfvpNcA6KfTmyr8Hfuv3xaumHjUZnm9ymN0aAEe+IEIHf+w1QRSn/s5gqvsA==",
+  "success": true,
+  "projectFilePath": "D:\\test dep\\Stripe\\Stripe Integratoin\\Stripe Integratoin\\Stripe Integratoin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\stripe.net\\41.15.0\\stripe.net.41.15.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Baqer Naqvi\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
